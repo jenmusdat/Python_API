@@ -8,3 +8,9 @@ This is the heat layer map:
 
 and this is the heat layer map with markers added for the cities that match my criteria:
 
+![image](https://user-images.githubusercontent.com/71193081/97941733-dabb1580-1d38-11eb-9aa4-0e1a29752faa.png)
+
+
+### Submitted by:
+### Jenny Kaylor
+### 11/2/2020
